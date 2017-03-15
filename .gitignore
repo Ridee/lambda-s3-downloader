@@ -1,0 +1,6 @@
+*
+!.gitignore
+!requirements.txt
+!lambda-requirements.txt
+!*.py
+!*.md
